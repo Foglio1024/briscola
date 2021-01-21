@@ -1,7 +1,7 @@
 {
 	"files": {
 		"index.js": "3a21253be51c978a77dc74ae08d51b042f455db4ecd23f8fb77f8845e02c971d",
-		"module.json": "3f1d3011065f87f7c507eaaef60e698258ddbe11d382f598cf627780d307acd9"
+		"module.json": "ff28661c38efe94428d19395c8921359ccfb1c876cb804022b8d54568affb8f2"
 	},
 	"defs": {
 		"S_SPAWN_USER": 17,

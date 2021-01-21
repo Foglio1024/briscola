@@ -1,4 +1,5 @@
 {
+	"servers": ["https://raw.githubusercontent.com/Foglio1024/briscola/master/"],
 	"name": "briscola",
 	"author": "Foglio",
 	"disableAutoUpdate": false,
