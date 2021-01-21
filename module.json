@@ -1,0 +1,8 @@
+{
+	"name": "briscola",
+	"author": "Foglio",
+	"disableAutoUpdate": false,
+	"options": {
+		"reloadable" : true
+	}
+}

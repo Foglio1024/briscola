@@ -1,0 +1,10 @@
+{
+	"files": {
+		"index.js": "3a21253be51c978a77dc74ae08d51b042f455db4ecd23f8fb77f8845e02c971d",
+		"module.json": "3f1d3011065f87f7c507eaaef60e698258ddbe11d382f598cf627780d307acd9"
+	},
+	"defs": {
+		"S_SPAWN_USER": 17,
+		"S_USER_PAPERDOLL_INFO": 11
+	}
+}
